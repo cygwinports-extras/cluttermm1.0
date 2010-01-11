@@ -1,0 +1,3 @@
+category: X11
+sdesc: "Clutter C++ bindings (sources)"
+ldesc: "GTKmm C++ bindings for the Clutter library"
