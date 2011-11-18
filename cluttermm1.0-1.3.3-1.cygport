@@ -1,7 +1,7 @@
 inherit gtkmm
 
 
-PKG_NAMES="${PN} lib${PN}_0 lib${PN}-devel"
-libcluttermm1_0_0_CONTENTS="usr/bin/cygcluttermm-1.0-0.dll usr/share/doc/${PN}/"
+PKG_NAMES="lib${PN}_1 lib${PN}-devel"
+libcluttermm1_0_1_CONTENTS="usr/bin/cygcluttermm-1.0-1.dll usr/share/doc/${PN}/"
 libcluttermm1_0_devel_CONTENTS="usr/include/ usr/lib/ usr/share/cluttermm-1.0/
                                 usr/share/devhelp/ usr/share/doc/cluttermm-1.0/"
